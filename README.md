@@ -1,6 +1,6 @@
 # flutterappchat
 
-A new Flutter application.
+A new Flutter application. A flutter chat application that uses friebase storage for storage and authentication purpose
 
 ## Getting Started
 
